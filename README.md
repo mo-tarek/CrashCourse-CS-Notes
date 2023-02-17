@@ -3,7 +3,7 @@
 Table of Contents 
 ----
 1. CrashCourse Computer Science Playlist
-2. CS50x: Introduction to Computer Science
+2. [CS50x: Introduction to Computer Science](https://github.com/mo-tarek/Introductory-Courses#cs50)
 
 ----
 
