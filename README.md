@@ -7,9 +7,9 @@ Table of Contents
 
 ----
 
-# 1. CrashCourse CS
-# 2. CS50
-      - Week 0: Scratch 
+# CrashCourse CS
+# CS50
+     - Week 0: Scratch 
       - Week 1: C 
       - Week 2: Arrays 
       - Week 3: Algorithms 
