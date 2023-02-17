@@ -8,7 +8,12 @@ Table of Contents
 ----
 
 # CrashCourse CS
+
+---- 
+
 # CS50
+
+## Syllabus
 <ul>
    <li>Week 0: Scratch</li>
    <li>Week 1: C</li>
@@ -23,6 +28,12 @@ Table of Contents
    <li>Week 10: Emoji</li>
    <li>CyberSecurity</li>
 </ul>
-    
+
+## Expectations
+<ul>
+   <li>Submit 10 problem sets</li>
+   <li>Submit 9 labs</li>
+   <li>Submit a final project</li>
+</ul>
     
 ----
