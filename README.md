@@ -9,16 +9,20 @@ Table of Contents
 
 # CrashCourse CS
 # CS50
-     - Week 0: Scratch 
-      - Week 1: C 
-      - Week 2: Arrays 
-      - Week 3: Algorithms 
-      - Week 4: Memory 
-      - Week 5: DataStructures 
-      - Week 6: Python 
-      - Week 7: SQL 
-      - Week 8: HTML, CSS, JS 
-      - Week 9: Flask 
-      - Week 10: Emoji 
-      - CyberSecurity
+<ul>
+   <li>Week 0: Scratch</li>
+   <li>Week 1: C</li>
+   <li>Week 2: Arrays</li>
+   <li>Week 3: Algorithms</li>
+   <li>Week 4: Memory</li>
+   <li>Week 5: DataStructures</li>
+   <li>Week 6: Python</li>
+   <li>Week 7: SQL</li>
+   <li>Week 8: HTML, CSS, JS</li>
+   <li>Week 9: Flask</li>
+   <li>Week 10: Emoji</li>
+   <li>CyberSecurity</li>
+</ul>
+    
+    
 ----
