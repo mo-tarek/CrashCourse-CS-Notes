@@ -4,6 +4,7 @@ Table of Contents
 ----
 1. CrashCourse Computer Science Playlist
 2. CS50x: Introduction to Computer Science
+3. Learning how to learn 
 
 ----
 
@@ -123,3 +124,11 @@ Table of Contents
 
 ## Academic Honesty
 <ul><li>Academic Honesty for guidelines</li></ul>
+
+----
+
+# Learning How to Learn 
+- Week 1: What is Learning
+- Week 2: Chunking
+- Week 3: Procrastination and Memory
+- Week 4: Renaissance Learning and Unlocking Your Potential
